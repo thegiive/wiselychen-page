@@ -273,6 +273,17 @@ body {
     color: var(--text-primary);
 }
 
+.contact-info a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.contact-info a:hover {
+    color: var(--secondary-color);
+    text-decoration: underline;
+}
+
 .contact-info p:last-child {
     margin-bottom: 0;
 }
