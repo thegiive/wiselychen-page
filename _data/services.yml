@@ -1,0 +1,15 @@
+- title: "AI Strategy & Roadmap"
+  description: "Develop comprehensive AI strategies aligned with your business objectives. From assessment to implementation planning, I help you chart the right course for digital transformation."
+  order: 1
+
+- title: "VIBE Coding Implementation"
+  description: "Transform your development process with VIBE (Verified, Iterative, Behavioral, Executable) coding methodology for reliable, maintainable AI solutions."
+  order: 2
+
+- title: "Spec-Driven Development"
+  description: "Implement rigorous specification-driven approaches that ensure your AI projects deliver exactly what's needed, reducing costs and accelerating time-to-market."
+  order: 3
+
+- title: "Team Training & Mentoring"
+  description: "Upskill your development teams with modern AI development practices, fostering a culture of excellence and continuous learning."
+  order: 4

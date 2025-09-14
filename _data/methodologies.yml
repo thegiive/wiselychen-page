@@ -1,0 +1,18 @@
+- title: "VIBE Coding"
+  content: |
+    <p><strong>Verified:</strong> Every component is thoroughly tested and validated</p>
+    <p><strong>Iterative:</strong> Continuous improvement through rapid feedback cycles</p>
+    <p><strong>Behavioral:</strong> Focus on desired outcomes and user behavior</p>
+    <p><strong>Executable:</strong> Immediately actionable and deployable solutions</p>
+  order: 1
+
+- title: "Spec-Driven Development"
+  content: |
+    <p>Start with clear, detailed specifications that define exactly what success looks like. This approach ensures alignment between stakeholders, reduces development time, and minimizes costly revisions.</p>
+    <ul>
+        <li>Comprehensive requirement analysis</li>
+        <li>Detailed technical specifications</li>
+        <li>Validation against business objectives</li>
+        <li>Continuous specification refinement</li>
+    </ul>
+  order: 2

@@ -18,12 +18,18 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+# GitHub Pages safe mode compatibility
+safe: true
+incremental: false
+
 # Collections
 collections:
   services:
     output: false
+    sort_by: order
   methodologies:
     output: false
+    sort_by: order
 
 # Exclude from processing
 exclude:
