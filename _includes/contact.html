@@ -1,0 +1,13 @@
+<section id="contact" class="section section-alt">
+    <div class="container">
+        <h2 class="section-title">{{ page.contact.title }}</h2>
+        <div class="contact-content">
+            <p class="contact-intro">{{ page.contact.intro }}</p>
+            <div class="contact-info">
+                <p>📧 <strong>Email:</strong> {{ site.author.email }}</p>
+                <p>💼 <strong>LinkedIn:</strong> <a href="{{ site.author.linkedin }}" target="_blank" rel="noopener">{{ site.author.linkedin | replace: 'https://www.linkedin.com/in/', '' | replace: '/', '' }}</a></p>
+                <p>🌐 <strong>Consultation:</strong> Available for projects worldwide</p>
+            </div>
+        </div>
+    </div>
+</section>

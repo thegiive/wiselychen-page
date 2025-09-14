@@ -1,0 +1,13 @@
+navigation:
+  - name: "About"
+    url: "#about"
+  - name: "Services"
+    url: "#services"
+  - name: "Methodology"
+    url: "#methodology"
+  - name: "Contact"
+    url: "#contact"
+
+social:
+  email: "thegiive@gmail.com"
+  linkedin: "https://www.linkedin.com/in/wisely-chen-38033a5b/"

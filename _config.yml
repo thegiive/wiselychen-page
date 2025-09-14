@@ -1,0 +1,38 @@
+# Site settings
+title: "Wisely Chen - AI Consultant"
+description: "AI consultant specializing in digital transformation, VIBE coding methodology, and spec-driven development"
+url: "https://thegiive.github.io"
+baseurl: "/wiselychen-page"
+
+# Author information
+author:
+  name: "Wisely Chen"
+  email: "thegiive@gmail.com"
+  linkedin: "https://www.linkedin.com/in/wisely-chen-38033a5b/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  services:
+    output: false
+  methodologies:
+    output: false
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass

@@ -1,0 +1,13 @@
+<section id="services" class="section section-alt">
+    <div class="container">
+        <h2 class="section-title">Services</h2>
+        <div class="services-grid">
+            {% for service in site.services %}
+            <div class="service-card">
+                <h3>{{ service.title }}</h3>
+                <p>{{ service.description }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
