@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Wisely Chen - AI Consultant for Digital Transformation"
+title: "Consultant for AI Transformation"
 description: "AI consultant specializing in digital transformation, VIBE coding methodology, and spec-driven development. Transform your business with AI-powered solutions."
 
 hero:
