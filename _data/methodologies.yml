@@ -1,18 +1,19 @@
-- title: "VIBE Coding"
+- title: "ATPM Methodology"
   content: |
-    <p><strong>Verified:</strong> Every component is thoroughly tested and validated</p>
-    <p><strong>Iterative:</strong> Continuous improvement through rapid feedback cycles</p>
-    <p><strong>Behavioral:</strong> Focus on desired outcomes and user behavior</p>
-    <p><strong>Executable:</strong> Immediately actionable and deployable solutions</p>
+    <p>Our proven AI-driven development process that accelerates delivery by 40% while maintaining high quality standards. ATPM (Assessment, Testing, Program, Management) integrates AI tools throughout the development lifecycle.</p>
+    <p><strong>Assessment:</strong> Evaluate project requirements and identify AI-assisted solutions</p>
+    <p><strong>Testing:</strong> Rigorous QA process using AI tools for code verification</p>
+    <p><strong>Program:</strong> Development phase with AI coding assistance and collaboration</p>
+    <p><strong>Management:</strong> Supervisory oversight with iterative feedback and continuous improvement</p>
   order: 1
 
-- title: "Spec-Driven Development"
+- title: "PRD-Centered Development"
   content: |
-    <p>Start with clear, detailed specifications that define exactly what success looks like. This approach ensures alignment between stakeholders, reduces development time, and minimizes costly revisions.</p>
+    <p>Transform your Product Requirements Document (PRD) into the central framework for all development activities. This approach leverages collaborative intelligence between humans and AI to deliver complex systems efficiently.</p>
     <ul>
-        <li>Comprehensive requirement analysis</li>
-        <li>Detailed technical specifications</li>
-        <li>Validation against business objectives</li>
-        <li>Continuous specification refinement</li>
+        <li>PRD as the single source of truth for all stakeholders</li>
+        <li>Continuous refinement through AI-assisted iteration</li>
+        <li>Domain knowledge prioritized over traditional technical constraints</li>
+        <li>Flexible, adaptive process that evolves with project needs</li>
     </ul>
   order: 2
