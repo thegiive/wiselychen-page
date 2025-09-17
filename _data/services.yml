@@ -2,14 +2,11 @@
   description: "Develop comprehensive AI strategies aligned with your business objectives. From assessment to implementation planning, I help you chart the right course for digital transformation."
   order: 1
 
-- title: "VIBE Coding Implementation"
-  description: "Transform your development process with VIBE (Verified, Iterative, Behavioral, Executable) coding methodology for reliable, maintainable AI solutions."
+- title: "ATPM Implementation"
+  description: "Transform your development process with ATPM (Assessment, Testing, Program, Management) methodology for reliable, maintainable AI solutions with 40% faster delivery."
   order: 2
 
-- title: "Spec-Driven Development"
-  description: "Implement rigorous specification-driven approaches that ensure your AI projects deliver exactly what's needed, reducing costs and accelerating time-to-market."
+- title: "PRD-Centered Development"
+  description: "Implement PRD-centered approaches that leverage collaborative intelligence between humans and AI, ensuring projects deliver exactly what's needed while reducing costs."
   order: 3
 
-- title: "Team Training & Mentoring"
-  description: "Upskill your development teams with modern AI development practices, fostering a culture of excellence and continuous learning."
-  order: 4
