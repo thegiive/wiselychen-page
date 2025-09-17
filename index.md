@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Consultant for AI Transformation"
-description: "AI consultant specializing in digital transformation, VIBE coding methodology, and spec-driven development. Transform your business with AI-powered solutions."
+description: "Expert AI consultant specializing in digital transformation, VIBE coding methodology, and spec-driven development. Transform your business with AI-powered solutions, custom implementation strategies, and cutting-edge technology integration."
 
 hero:
   title: "Digital Transformation Through AI Excellence"

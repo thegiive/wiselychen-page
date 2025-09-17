@@ -8,6 +8,40 @@
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     {% seo %}
+
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "{{ site.author.name }}",
+        "jobTitle": "AI Consultant",
+        "description": "{{ site.description }}",
+        "url": "{{ site.url }}",
+        "email": "{{ site.author.email }}",
+        "sameAs": [
+            "{{ site.author.linkedin }}",
+            "{{ site.author.facebook }}",
+            "https://ai-coding.wiselychen.com/"
+        ],
+        "worksFor": {
+            "@type": "Organization",
+            "name": "Independent AI Consultant"
+        },
+        "knowsAbout": [
+            "Artificial Intelligence",
+            "Digital Transformation",
+            "VIBE Coding Methodology",
+            "Spec-Driven Development",
+            "AI Implementation",
+            "Technology Integration"
+        ],
+        "offers": {
+            "@type": "Service",
+            "serviceType": "AI Consulting",
+            "description": "Digital transformation through AI excellence, specializing in VIBE coding methodology and spec-driven development"
+        }
+    }
+    </script>
 </head>
 <body>
     {% include header.html %}
