@@ -1,8 +1,5 @@
 - title: "ATPM Methodology"
   content: |
-    <div class="methodology-diagram">
-        <img src="/assets/images/atpm-methodology.png" alt="ATPM Methodology Workflow" class="methodology-image">
-    </div>
     <p>Our proven AI-driven development process that accelerates delivery by 40% while maintaining high quality standards. ATPM (Assessment, Testing, Program, Management) integrates AI tools throughout the development lifecycle.</p>
     <p><strong>Assessment:</strong> Evaluate project requirements and identify AI-assisted solutions</p>
     <p><strong>Testing:</strong> Rigorous QA process using AI tools for code verification</p>
